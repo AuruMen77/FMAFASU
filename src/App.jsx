@@ -1,5 +1,5 @@
 import timelineData from './data/timelineData';
-import TimelineItem from './components/TimelineItem';
+import TimelineItem from './components/timelineItem';
 
 function App() {
   return (
