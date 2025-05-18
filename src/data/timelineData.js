@@ -4,7 +4,7 @@ const timelineData = [
     images: ["/images/grad-pic.jpg", "/images/grad-pic.jpg", "/images/grad-pic.jpg"],
     title: "First Official Picture!",
     description:
-      "Nagpapicture ako did'nt expect you to actually accept the offer especially since hindi ako personally naghingi",
+      "It was graduation day, nagpapicture ako didn't expect you to actually accept the offer especially since hindi ako personally naghingi",
   },
   {
     date: "2024-12-22",
@@ -25,7 +25,7 @@ const timelineData = [
     images: ["/images/figaro1.jpeg", "/images/figaro2.jpeg", "/images/figaro3.jpeg",],
     title: "Third date",
     description:
-      "Business meeting with flowers sa Figaro before the oathtaking, daming random topics, China VS. USA, Pandas, and mga next level na soft launch pics HAHAHA",
+      "Business meeting with flowers sa Figaro before the oathtaking, daming random topics, China VS. USA, Pandas, and mga next level na soft launch pics",
   },
   {
     date: "2025-01-29",
@@ -39,7 +39,7 @@ const timelineData = [
     images: ["/images/mubap1.jpeg", "/images/mubap2.jpeg", "/images/mubap3.jpeg", "/images/mubap4.jpeg", ],
     title: "Before the first VISA application",
     description:
-      "Applied for VISA para makapunta sa US the journey was rocky to say the least, pero looking back, nakipagmeetup ako sayo in the morning when it was a workday",
+      "Applied for VISA para makapunta sa US. The journey was rocky to say the least, pero looking back, nakipagmeetup ako sayo in the morning when it was a workday",
   },
   
   {
@@ -47,7 +47,7 @@ const timelineData = [
     images: ["/images/lor1.jpeg", "/images/lor2.jpeg", "/images/lor3.jpeg", "/images/lor4.jpeg", "/images/lor5.jpeg",],
     title: "We meet again after the US trip",
     description:
-      "You shared your exploits sa US and the way you light up while explaining it, you just look very happy, pero this was also the time yung stressful closing of books ninyo, and also shoutout to Lorain's Cafe for the best cafe",
+      "You shared your exploits sa US and the way you light up while explaining it, you just look very happy, pero this was also the time yung stressful closing of books ninyo, I love my multiemotional Hab. Also, shoutout to Lorain's Cafe for the best cafe",
   },
 
   {
@@ -55,7 +55,7 @@ const timelineData = [
     images: ["/images/oo1.jpeg","/images/oo1.jpeg","/images/oo1.jpeg","/images/oo1.jpeg"],
     title: "Biglang nag OO, I love you <3",
     description:
-      "We went to Paso sa morning and tried out the Whisper Dish and checked out Butterfly Garden, then nag lunch sa Mon's Grill, then yung supposed to be Ukay, nagbili na lang gifts and other stuff sa KCC, also the Chatime disaster, and I was very surprised you insisted on going to your friend's place pero that's where you said Stop ka na manligaw, in other words the YES",
+      "We went to Paso sa morning and tried out the Whisper Dish and checked out Butterfly Garden, then nag lunch sa Mon's Grill, then yung supposed to be Ukay, nagbili na lang gifts and other stuff sa KCC, also the Chatime disaster, and I was very surprised you insisted on going to your friend's place pero that's where you said Stop ka na manligaw. The best version of YES I have heard so far",
   },
 
   {
