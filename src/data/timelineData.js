@@ -8,7 +8,7 @@ const timelineData = [
   },
   {
     date: "2024-12-22",
-    images: ["/images/first-date.jpeg"],
+    images: ["/images/first-date.jpeg", "/images/fd2.jpeg", "/images/fd3.jpeg", "/images/fd4.jpeg"],
     title: "First Date",
     description:
       "Nagtanong ako kung pwede manligaw, tapos nag OO ka din, WHAT? Di ko pa nga alam at the time kung anong itatawag dito",
@@ -52,7 +52,7 @@ const timelineData = [
 
   {
     date: "2025-04-19",
-    images: ["/images/lor1.jpeg", "/images/lor2.jpeg", "/images/lor3.jpeg", "/images/lor4.jpeg", "/images/lor5.jpeg",],
+    images: ["/images/oo1.jpeg","/images/oo1.jpeg","/images/oo1.jpeg","/images/oo1.jpeg"],
     title: "Biglang nag OO, I love you <3",
     description:
       "We went to Paso sa morning and tried out the Whisper Dish and checked out Butterfly Garden, then nag lunch sa Mon's Grill, then yung supposed to be Ukay, nagbili na lang gifts and other stuff sa KCC, also the Chatime disaster, and I was very surprised you insisted on going to your friend's place pero that's where you said Stop ka na manligaw, in other words the YES",
